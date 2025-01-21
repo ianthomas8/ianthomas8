@@ -11,7 +11,7 @@ Interested in and Passionate about Data Analytics, Data Science, and Programming
 - Tableau
 
 ### Projects 📚
-Link to my Portfolio: 
+NBA Team Salary vs Team Wins:  
 
 ### Connect with Me 👋🏻
 email: ian.garrett.thomas@outlook.com
