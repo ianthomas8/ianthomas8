@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! My name is Ian Thomas. 
+Current Applied Mathematics undergraduate student at Towson University, Class of 2026.
+Passionate about Data Analytics, Data Science, and programming.
 
-<!--
-**ianthomas8/ianthomas8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools 🛠️
+- Python
+- Excel
+- SQL
+- Tableau
 
-Here are some ideas to get you started:
+### Projects 📚
+Link to my Portfolio: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me 👋🏻
+email: ian.garrett.thomas@outlook.com
