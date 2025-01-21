@@ -1,4 +1,4 @@
-## Hi! My name is Ian Thomas. 
+## Hi! My name is Ian Thomas!
 
 Current Applied Mathematics undergraduate student at Towson University, Class of 2026.
 
