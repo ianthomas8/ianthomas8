@@ -1,8 +1,8 @@
 ## Hi! My name is Ian Thomas. 
 
-> Current Applied Mathematics undergraduate student at Towson University, Class of 2026.
+Current Applied Mathematics undergraduate student at Towson University, Class of 2026.
 
-> Interested in and Passionate about Data Analytics, Data Science, and programming.
+Interested in and Passionate about Data Analytics, Data Science, and programming.
 
 ### Tools 🛠️
 - Python
